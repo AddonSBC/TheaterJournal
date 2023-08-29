@@ -12,6 +12,6 @@
   <a href="https://lupo.ai"><strong>Explore Lupo.ai »</strong></a>
   <br>
   <br>
-  <a href="https://addonsbc.github.io/Lupo-Pages/">Main page</a>
+  <a href="https://addonsbc.github.io/Theater-Journal/Journal">Journal Section 1</a>
   ·
 </p>
